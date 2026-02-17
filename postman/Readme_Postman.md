@@ -47,6 +47,8 @@ String p2 = fullToken.substring(fullToken.length() / 2);
 System.debug('PARTIE_1:' + p1);
 System.debug('PARTIE_2:' + p2);
 
+Une fois le script executé il faudra cliquer sur "Debug Only"
+
 5.  Copier le token qui est en 2 parties
 
 ------------------------------------------------------------------------
