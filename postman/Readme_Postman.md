@@ -69,7 +69,7 @@ POST
 
 ### URL
 
-https://orgfarm-f030226da4-dev-ed.develop.my.salesforce.com/services/data/v60.0/sobjects/Enrollment__c/
+https://orgfarm-f030226da4-dev-ed.develop.my.salesforce.com/services/data/v60.0/sobjects/Enrollment__c
 
 
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ https://orgfarm-f030226da4-dev-ed.develop.my.salesforce.com/services/data/v60.0/
 ## Tests Postman --- Cas Succès
 
 {
-    "Training_Session__c": "a01gL00000gWgVOQA0",
+    "Training_Session__c": "a01gL00000gdPRQQA2",
     "Contact__c": "003gL00000VydMWQAZ",
     "Status__c": "Confirmed",
     "Comments__c": "Inscription crée via POSTMAN"
